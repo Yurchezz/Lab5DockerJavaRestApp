@@ -1,1 +1,1 @@
-# Lab5DockerJavaRestApp
+# Java-Rest-App
